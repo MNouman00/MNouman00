@@ -17,8 +17,7 @@ I am a **Full Stack AI Engineer** passionate about bridging the gap between inte
 
 *   🤖 **Agentic Workflows:** Specializing in building intelligent agents using **LangChain & LangGraph**.
 *   🌐 **Full Stack:** Crafting responsive UIs with React and robust, high-performance backends with Python & Django/FastAPI.
-*   ☁️ **DevOps & Cloud:** Deploying and managing scalable infrastructure using Docker, AWS, and Redis.
-*   💡 I thrive on solving complex problems by combining modern web technologies with cutting-edge LLM capabilities.
+*   ☁️ **DevOps & Cloud:** Deploying and managing scalable infrastructure using Docker, AWS, and Vercel.
 *   👨‍💻 Check out my latest projects and work at my **[Portfolio](https://portfolio-five-umber-43.vercel.app/)**!
 
 ---
@@ -53,17 +52,21 @@ I am a **Full Stack AI Engineer** passionate about bridging the gap between inte
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
 
-### 📌 Featured Repositories
+### 🌟 Featured Live Projects
 
-Here are a few projects I'm currently working on or have built:
+Here are some of my deployed applications showcasing my end-to-end capabilities:
 
-*   **[React-hook-form](https://github.com/MNouman00/React-hook-form)** - *Building forms with less boilerplate code and optimized re-renders.* (Language: JavaScript)
-*   **[Redux-toolkit](https://github.com/MNouman00/Redux-toolkit)** - *Deep dive into Redux concepts: Action, Reducer, Slice, Store, State.* (Language: JavaScript)
-*   **[Js.nomi](https://github.com/MNouman00/Js.nomi)** - *Code repository for my JavaScript practice and experiments.*
+*   🤖 **[LangGraph Website Chatbot](https://langgraph-website-chatbot.vercel.app/)** - *An intelligent, agentic chatbot built with LangGraph deployed on Vercel.* (Repo: [langgraph-website-chatbot](https://github.com/MNouman00/langgraph-website-chatbot))
+*   🛒 **[Complete E-Commerce Platform](https://complete-end-to-end-e-commerce-platform.vercel.app/)** - *A full-stack e-commerce solution featuring production CORS and CSRF security settings.* (Repo: [complete-end-to-end-e-commerce-platform](https://github.com/MNouman00/complete-end-to-end-e-commerce-platform))
+*   🏭 **[Machine.pk Sealing Platform](https://machine-pk-sealing-platform.vercel.app/)** - *A specialized platform highlighting modern UI and fast data handling.* (Repo: [machine-pk-sealing-platform](https://github.com/MNouman00/machine-pk-sealing-platform))
+*   🚲 **[Bicycle Rental](https://bicycle-rental.vercel.app/)** - *A clean, functional web application for renting bicycles.* (Repo: [bicycle-rental](https://github.com/MNouman00/bicycle-rental))
+
+*(You can also check out my foundational JavaScript repos like [React-hook-form](https://github.com/MNouman00/React-hook-form) and [Redux-toolkit](https://github.com/MNouman00/Redux-toolkit))*
 
 ---
 
