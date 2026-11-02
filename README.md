@@ -3,8 +3,8 @@
 <h3 align="center">Full Stack AI Engineer | Building Intelligent & Scalable End-to-End Solutions</h3>
 
 <p align="center">
-  <a href="https://zenit.solution.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-zenit.solution.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://portfolio-five-umber-43.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Location-Islamabad,%20Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
@@ -19,6 +19,7 @@ I am a **Full Stack AI Engineer** passionate about bridging the gap between inte
 *   🌐 **Full Stack:** Crafting responsive UIs with React and robust, high-performance backends with Python & Django/FastAPI.
 *   ☁️ **DevOps & Cloud:** Deploying and managing scalable infrastructure using Docker, AWS, and Redis.
 *   💡 I thrive on solving complex problems by combining modern web technologies with cutting-edge LLM capabilities.
+*   👨‍💻 Check out my latest projects and work at my **[Portfolio](https://portfolio-five-umber-43.vercel.app/)**!
 
 ---
 
