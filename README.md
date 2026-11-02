@@ -16,13 +16,13 @@
 I am a **Full Stack AI Engineer** passionate about bridging the gap between intelligent backend systems and seamless frontend experiences. I build end-to-end solutions ranging from responsive web apps to AI-powered systems and scalable cloud infrastructure.
 
 *   🤖 **Agentic Workflows:** Specializing in building intelligent agents using **LangChain & LangGraph**.
-*   🌐 **Full Stack:** Crafting responsive UIs with React and robust, high-performance backends with Python & Django/FastAPI.
+*   🌐 **Full Stack:** Crafting responsive UIs with React and robust, high-performance backends with Python, Django, and FastAPI.
 *   ☁️ **DevOps & Cloud:** Deploying and managing scalable infrastructure using Docker, AWS, and Vercel.
 *   👨‍💻 Check out my latest projects and work at my **[Portfolio](https://portfolio-five-umber-43.vercel.app/)**!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Comprehensive Tech Stack
 
 **Frontend Development**
 <p align="left">
@@ -32,13 +32,17 @@ I am a **Full Stack AI Engineer** passionate about bridging the gap between inte
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-**Backend & Databases**
+**Backend & API Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/Starlette-2B3A42?style=for-the-badge&logo=starlette&logoColor=white" alt="Starlette" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn" />
 </p>
 
 **AI / LLM Engineering**
@@ -47,11 +51,17 @@ I am a **Full Stack AI Engineer** passionate about bridging the gap between inte
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
 </p>
 
-**DevOps & Infrastructure**
+**Databases & Caching**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+**DevOps & Cloud Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
